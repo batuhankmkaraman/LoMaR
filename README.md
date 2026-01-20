@@ -37,13 +37,13 @@ Below, we provide an overview of the demo dataset structure and how to run the d
 
 In `demo/data/`, the file `demo_metadata.csv` contains **100 randomly chosen and properly anonymized subjects**. Each row corresponds to a **different subject**, so we do **not** perform pseudo-test-set based evaluation in this demo. If you want to use a subject more than once in evaluation (e.g., choosing different present points in their history), you should index your data carefully and ensure that **each subject appears only once within a single pseudo-test split**; otherwise, evaluation may be biased. Please refer to the paper for more details.
 
-In `demo_metadata.csv`, columns starting with `npy_` contain file paths to **visit embeddings**. These embeddings are obtained via a pretrained image encoder + image aggregator. For generating embeddings, you can use the Mirai codebase:
+In `demo/data/demo_metadata.csv`, columns starting with `npy_` contain file paths to **visit embeddings**. These embeddings are obtained via a pretrained image encoder + image aggregator. For generating embeddings, you can use the Mirai codebase:
 
 - https://github.com/yala/Mirai
 
-LoMaR uses **only mammogram embeddings** (no additional risk factors). Make sure your visit embeddings have **dimension 512**. For the demo, we also include example `.npy` files under `demo/npy_files/`.
+LoMaR uses **only mammogram embeddings** (no additional risk factors). Make sure your visit embeddings have **dimension 512**. For the demo, we also include example `.npy` files under `demo/data/npy_files/`.
 
-Columns starting with `dx_` in `demo_metadata.csv` represent the **future diagnosis** labels (e.g., per follow-up horizon).
+Columns starting with `dx_` in `demo/data/demo_metadata.csv` represent the **future diagnosis** labels (e.g., per follow-up horizon).
 
 ---
 
