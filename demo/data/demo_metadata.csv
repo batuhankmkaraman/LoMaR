@@ -1,0 +1,101 @@
+subject,dx_1,dx_2,dx_3,dx_4,dx_5,npy_-4,npy_-3,npy_-2,npy_-1,npy_0
+karo_30.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,,,demo/data/npy_files/6_30.npy
+karo_33.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_33.npy,,demo/data/npy_files/2_33.npy,,demo/data/npy_files/4_33.npy
+karo_35.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_35.npy,demo/data/npy_files/3_35.npy,,demo/data/npy_files/5_35.npy,demo/data/npy_files/6_35.npy
+karo_44.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_44.npy,,demo/data/npy_files/2_44.npy,,demo/data/npy_files/4_44.npy
+karo_50.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_50.npy,demo/data/npy_files/1_50.npy,,demo/data/npy_files/3_50.npy,demo/data/npy_files/4_50.npy
+karo_54.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/1_54.npy,,demo/data/npy_files/3_54.npy,,demo/data/npy_files/5_54.npy
+karo_55.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/1_55.npy,,demo/data/npy_files/3_55.npy,,demo/data/npy_files/5_55.npy
+karo_56.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,demo/data/npy_files/0_56.npy,,demo/data/npy_files/2_56.npy,,demo/data/npy_files/4_56.npy
+karo_58.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_58.npy,demo/data/npy_files/1_58.npy,,demo/data/npy_files/3_58.npy
+karo_78.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_78.npy,,,demo/data/npy_files/5_78.npy
+karo_81.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_81.npy,demo/data/npy_files/3_81.npy,,demo/data/npy_files/5_81.npy
+karo_84.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_84.npy,demo/data/npy_files/1_84.npy,,demo/data/npy_files/3_84.npy,demo/data/npy_files/4_84.npy
+karo_87.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,demo/data/npy_files/3_87.npy,,demo/data/npy_files/5_87.npy
+karo_88.0,Malignant,Malignant,Malignant,Malignant,Malignant,demo/data/npy_files/2_88.npy,,,,demo/data/npy_files/6_88.npy
+karo_94.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/2_94.npy,,,demo/data/npy_files/5_94.npy
+karo_95.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_95.npy,,demo/data/npy_files/2_95.npy,,demo/data/npy_files/4_95.npy
+karo_105.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_105.npy,,demo/data/npy_files/2_105.npy,,demo/data/npy_files/4_105.npy
+karo_106.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_106.npy,demo/data/npy_files/1_106.npy,,demo/data/npy_files/3_106.npy,demo/data/npy_files/4_106.npy
+karo_115.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,,,,demo/data/npy_files/0_115.npy
+karo_118.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_118.npy,,demo/data/npy_files/2_118.npy,,demo/data/npy_files/4_118.npy
+karo_126.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_126.npy,,,,demo/data/npy_files/4_126.npy
+karo_138.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_138.npy,,demo/data/npy_files/4_138.npy,,demo/data/npy_files/6_138.npy
+karo_140.0,Unknown,Malignant,Malignant,Malignant,Malignant,,demo/data/npy_files/0_140.npy,,demo/data/npy_files/2_140.npy,demo/data/npy_files/3_140.npy
+karo_151.0,Not Malignant,Not Malignant,Malignant,Malignant,Malignant,,demo/data/npy_files/2_151.npy,,,demo/data/npy_files/5_151.npy
+karo_154.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_154.npy,demo/data/npy_files/3_154.npy,,demo/data/npy_files/5_154.npy
+karo_155.0,Malignant,Malignant,Malignant,Malignant,Malignant,,,,,demo/data/npy_files/0_155.npy
+karo_161.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/2_161.npy,,,demo/data/npy_files/5_161.npy
+karo_165.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_165.npy,,demo/data/npy_files/2_165.npy,,demo/data/npy_files/4_165.npy
+karo_176.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,,demo/data/npy_files/0_176.npy,demo/data/npy_files/1_176.npy
+karo_181.0,Malignant,Malignant,Malignant,Malignant,Malignant,,demo/data/npy_files/0_181.npy,demo/data/npy_files/1_181.npy,,demo/data/npy_files/3_181.npy
+karo_182.0,Unknown,Malignant,Malignant,Malignant,Malignant,demo/data/npy_files/1_182.npy,,demo/data/npy_files/3_182.npy,,demo/data/npy_files/5_182.npy
+karo_192.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_192.npy,demo/data/npy_files/1_192.npy,,,demo/data/npy_files/4_192.npy
+karo_195.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,demo/data/npy_files/0_195.npy,,demo/data/npy_files/2_195.npy,,demo/data/npy_files/4_195.npy
+karo_201.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_201.npy,demo/data/npy_files/3_201.npy,,demo/data/npy_files/5_201.npy,demo/data/npy_files/6_201.npy
+karo_206.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/2_206.npy,demo/data/npy_files/3_206.npy,,demo/data/npy_files/5_206.npy
+karo_210.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_210.npy,demo/data/npy_files/1_210.npy,,demo/data/npy_files/3_210.npy
+karo_213.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_213.npy,demo/data/npy_files/1_213.npy,,demo/data/npy_files/3_213.npy
+karo_216.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,,,demo/data/npy_files/5_216.npy
+karo_221.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_221.npy,,demo/data/npy_files/4_221.npy,,demo/data/npy_files/6_221.npy
+karo_222.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_222.npy,demo/data/npy_files/1_222.npy,,demo/data/npy_files/3_222.npy,demo/data/npy_files/4_222.npy
+karo_226.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,demo/data/npy_files/0_226.npy,,demo/data/npy_files/2_226.npy
+karo_240.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/0_240.npy,,demo/data/npy_files/2_240.npy,demo/data/npy_files/3_240.npy
+karo_242.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_242.npy,demo/data/npy_files/3_242.npy,,demo/data/npy_files/5_242.npy,demo/data/npy_files/6_242.npy
+karo_251.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,,,,,demo/data/npy_files/0_251.npy
+karo_252.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_252.npy,demo/data/npy_files/1_252.npy,,demo/data/npy_files/3_252.npy,demo/data/npy_files/4_252.npy
+karo_266.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_266.npy,demo/data/npy_files/1_266.npy,,demo/data/npy_files/3_266.npy,demo/data/npy_files/4_266.npy
+karo_280.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_280.npy,,demo/data/npy_files/4_280.npy,,demo/data/npy_files/6_280.npy
+karo_290.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_290.npy,,demo/data/npy_files/4_290.npy,,demo/data/npy_files/6_290.npy
+karo_297.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_297.npy,demo/data/npy_files/1_297.npy,,demo/data/npy_files/3_297.npy
+karo_298.0,Not Malignant,Not Malignant,Not Malignant,Not Malignant,Unknown,,,demo/data/npy_files/0_298.npy,,demo/data/npy_files/2_298.npy
+karo_303.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_303.npy,,demo/data/npy_files/2_303.npy,,demo/data/npy_files/4_303.npy
+karo_313.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_313.npy,,demo/data/npy_files/2_313.npy,demo/data/npy_files/3_313.npy
+karo_349.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,demo/data/npy_files/0_349.npy,,demo/data/npy_files/2_349.npy,,demo/data/npy_files/4_349.npy
+karo_359.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/3_359.npy,,demo/data/npy_files/5_359.npy,demo/data/npy_files/6_359.npy
+karo_364.0,Unknown,Malignant,Malignant,Malignant,Malignant,,,,,demo/data/npy_files/0_364.npy
+karo_368.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/2_368.npy,,,demo/data/npy_files/5_368.npy
+karo_373.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,demo/data/npy_files/0_373.npy,,demo/data/npy_files/2_373.npy,,demo/data/npy_files/4_373.npy
+karo_379.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,demo/data/npy_files/0_379.npy,,demo/data/npy_files/2_379.npy
+karo_400.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/2_400.npy,,,demo/data/npy_files/5_400.npy
+karo_410.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,,,demo/data/npy_files/0_410.npy
+karo_413.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_413.npy,,demo/data/npy_files/2_413.npy,,demo/data/npy_files/4_413.npy
+karo_418.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,demo/data/npy_files/2_418.npy,,,demo/data/npy_files/5_418.npy
+karo_422.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_422.npy,demo/data/npy_files/3_422.npy,,demo/data/npy_files/5_422.npy
+karo_425.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,,,demo/data/npy_files/3_425.npy,,demo/data/npy_files/5_425.npy
+karo_436.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,,,,demo/data/npy_files/0_436.npy
+karo_441.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_441.npy,demo/data/npy_files/1_441.npy,,demo/data/npy_files/3_441.npy
+karo_446.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_446.npy,demo/data/npy_files/1_446.npy,,demo/data/npy_files/3_446.npy,demo/data/npy_files/4_446.npy
+karo_450.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/1_450.npy,,demo/data/npy_files/3_450.npy,,demo/data/npy_files/5_450.npy
+karo_452.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_452.npy,demo/data/npy_files/1_452.npy,,demo/data/npy_files/3_452.npy,demo/data/npy_files/4_452.npy
+karo_457.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_457.npy,demo/data/npy_files/3_457.npy,,demo/data/npy_files/5_457.npy
+karo_459.0,Not Malignant,Not Malignant,Not Malignant,Not Malignant,Not Malignant,,,,,demo/data/npy_files/0_459.npy
+karo_461.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_461.npy,,demo/data/npy_files/2_461.npy,,demo/data/npy_files/4_461.npy
+karo_468.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,,demo/data/npy_files/0_468.npy,,demo/data/npy_files/2_468.npy
+karo_482.0,Not Malignant,Not Malignant,Not Malignant,Not Malignant,Not Malignant,,,,,demo/data/npy_files/0_482.npy
+karo_485.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,,demo/data/npy_files/0_485.npy,,,demo/data/npy_files/3_485.npy
+karo_491.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_491.npy,,demo/data/npy_files/2_491.npy,,demo/data/npy_files/4_491.npy
+karo_492.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_492.npy,,demo/data/npy_files/4_492.npy,,demo/data/npy_files/6_492.npy
+karo_493.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_493.npy,,demo/data/npy_files/2_493.npy,,demo/data/npy_files/4_493.npy
+karo_495.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_495.npy,demo/data/npy_files/1_495.npy,,demo/data/npy_files/3_495.npy,demo/data/npy_files/4_495.npy
+karo_510.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_510.npy,demo/data/npy_files/3_510.npy,,demo/data/npy_files/5_510.npy
+karo_511.0,Not Malignant,Not Malignant,Not Malignant,Not Malignant,Unknown,,,,demo/data/npy_files/0_511.npy,demo/data/npy_files/1_511.npy
+karo_521.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_521.npy,,demo/data/npy_files/2_521.npy,,demo/data/npy_files/4_521.npy
+karo_523.0,Malignant,Malignant,Malignant,Malignant,Malignant,,,demo/data/npy_files/0_523.npy,,demo/data/npy_files/2_523.npy
+karo_524.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/2_524.npy,demo/data/npy_files/3_524.npy,,demo/data/npy_files/5_524.npy,demo/data/npy_files/6_524.npy
+karo_526.0,Malignant,Malignant,Malignant,Malignant,Malignant,demo/data/npy_files/2_526.npy,,demo/data/npy_files/4_526.npy,,demo/data/npy_files/6_526.npy
+karo_545.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,,demo/data/npy_files/3_545.npy,,demo/data/npy_files/5_545.npy
+karo_546.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_546.npy,demo/data/npy_files/1_546.npy,,demo/data/npy_files/3_546.npy
+karo_547.0,Malignant,Malignant,Malignant,Malignant,Malignant,demo/data/npy_files/0_547.npy,,demo/data/npy_files/2_547.npy,,demo/data/npy_files/4_547.npy
+karo_549.0,Not Malignant,Not Malignant,Not Malignant,Unknown,Unknown,,demo/data/npy_files/0_549.npy,demo/data/npy_files/1_549.npy,,demo/data/npy_files/3_549.npy
+karo_562.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_562.npy,,demo/data/npy_files/2_562.npy,demo/data/npy_files/3_562.npy
+karo_568.0,Malignant,Malignant,Malignant,Malignant,Malignant,demo/data/npy_files/3_568.npy,demo/data/npy_files/4_568.npy,,,demo/data/npy_files/7_568.npy
+karo_571.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_571.npy,,demo/data/npy_files/2_571.npy,,demo/data/npy_files/4_571.npy
+karo_573.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/0_573.npy,demo/data/npy_files/1_573.npy,,demo/data/npy_files/3_573.npy
+karo_586.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_586.npy,,,,demo/data/npy_files/4_586.npy
+karo_588.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,,demo/data/npy_files/2_588.npy,,,demo/data/npy_files/5_588.npy
+karo_599.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_599.npy,demo/data/npy_files/1_599.npy,,demo/data/npy_files/3_599.npy,demo/data/npy_files/4_599.npy
+karo_604.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/1_604.npy,,demo/data/npy_files/3_604.npy,,demo/data/npy_files/5_604.npy
+karo_605.0,Not Malignant,Not Malignant,Unknown,Unknown,Unknown,demo/data/npy_files/0_605.npy,demo/data/npy_files/1_605.npy,,demo/data/npy_files/3_605.npy,demo/data/npy_files/4_605.npy
+karo_606.0,Not Malignant,Unknown,Unknown,Unknown,Unknown,demo/data/npy_files/0_606.npy,,demo/data/npy_files/2_606.npy,,demo/data/npy_files/4_606.npy
+karo_608.0,Unknown,Malignant,Malignant,Malignant,Malignant,,,demo/data/npy_files/0_608.npy,,demo/data/npy_files/2_608.npy
