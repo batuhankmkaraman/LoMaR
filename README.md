@@ -3,7 +3,7 @@ This repository is released under an **Academic Research-Only License** (**no co
 # LoMaR
 ## Longitudinal Mammogram Risk Prediction
 
-![LoMaR model](figures/model.pdf)
+![LoMaR model](figures/model.svg)
 
 Python implementation of **LoMaR**. 
 
@@ -27,7 +27,7 @@ In this paper, we extend a state-of-the-art ML model to ingest an arbitrary numb
 
 # Demo Overview
 
-This repository includes a small demonstration of **LoMaR inference**. We encourage researchers to evaluate our models on their own data and share results as benchmarks.
+This repository includes a demonstration of LoMaR inference. We encourage researchers to evaluate our models on their own data and share results as benchmarks.
 
 Below, we provide an overview of the demo dataset structure and how to run the demo. Each file in the repository is intended to be well-commented and self-explanatory.
 
