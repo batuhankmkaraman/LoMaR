@@ -1,7 +1,7 @@
 This repository is released under an **Academic Research-Only License** (**no commercial use, no redistribution, no patent license**).
 
-# LoMaR
-## Longitudinal Mammogram Risk Prediction
+# LoMaR (Longitudinal Mammogram Risk Prediction)
+<!-- ##  -->
 
 ![LoMaR model](figures/model.svg)
 
